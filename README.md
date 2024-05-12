@@ -7,4 +7,6 @@ client_server_client.py = Program server untuk menghubungkan dua client dari per
 
 receive_data_from_server.py = Program client untuk menerima data dari server dan meneruskannya ke arduino
 
-refboxtopytoard.py = Program 
+refboxtopytoard.py = Program client untuk menerima data dari refbox dan meneruskannya ke arduino
+
+
