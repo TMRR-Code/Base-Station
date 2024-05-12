@@ -6,7 +6,10 @@ clienttodevice.py = program client untuk mengirimkan data dari arduino ke progra
 client_server_client.py = Program server untuk menghubungkan dua client dari perangkat yang berbeda 
 
 receive_data_from_server.py = Program client untuk menerima data dari server dan meneruskannya ke arduino
+server_client_ard.py = memiliki fungsi yang sama dengan program diatas 
 
 refboxtopytoard.py = Program client untuk menerima data dari refbox dan meneruskannya ke arduino
+
+
 
 
